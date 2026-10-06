@@ -2,7 +2,7 @@
 layout: post
 title: "Boulevardier: The Cocktail"
 timelinedate: 2013-09-01
-categories: ["Cocktails"]
+categories: [""]
 author: "Dawn Childress"
 lat: 48.869219
 lng: 2.3322078999999576
