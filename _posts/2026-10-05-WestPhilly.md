@@ -8,7 +8,6 @@ lat: 39.95
 lng: -75.207
 headertitle: "this is the title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "Nam ut viverra dui."
-order: 2
 ---
 Vivamus justo orci, molestie et vulputate sed, mollis id turpis. Nam et accumsan lacus. Vivamus condimentum ipsum a sem interdum, id iaculis tellus blandit. 
 
