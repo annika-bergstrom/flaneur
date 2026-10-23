@@ -2,7 +2,7 @@
 layout: post
 title: "West Philly"
 timelinedate: 2026-10-05
-categories: [""]
+categories: ["story"]
 author: "Annika Bergstrom"
 lat: 39.95
 lng: -75.207
