@@ -4,7 +4,7 @@ title: "West Philly"
 timelinedate: 2026-10-05
 categories: [""]
 author: "Annika Bergstrom"
-lat: 39.95271989379589 
+lat: 39.95271989379589
 lng: -75.2072399017531
 headertitle: "this is the title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "Nam ut viverra dui."
