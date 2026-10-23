@@ -2,7 +2,7 @@
 layout: post
 title: "West Philly"
 timelinedate: 2026-10-05
-categories: ["categories with spaces in quotes - this populates the map layers widget and index"]
+categories: [""]
 author: "Annika Bergstrom"
 lat: 39.95271989379589 
 lng: -75.2072399017531
