@@ -10,7 +10,7 @@ desc: "this is the map popup text"
 ---
 Body text goes here in Markdown
 
-![Merion Hall](images/20251215_OCM-Campus-Beauty-Winter-103.jpg){:.image} 
+![Merion Hall](images/20251215_OCM-Campus-Beauty-Winter-103.jpg){:width="100%" :style="display: block"}{:.image} 
 
 [Bryn Mawr College]
   {:.caption} 
